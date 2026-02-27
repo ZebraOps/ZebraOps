@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, 我是橙子</h1> 
-<h3 align="center">一位专注于云原生、自动化和全栈实践的DevOps & SRE工程师</h3>
+<div align="center">
+  <h1>Hi 👋, 我是橙子</h1>
+  <span>中文 | <a href="./README.en.md">English</a></span>
+  <h3 align="center">一位专注于云原生、自动化和全栈实践的DevOps & SRE工程师</h3>
+</div>
 
 ---
 ### 黑白分明，运维有道
