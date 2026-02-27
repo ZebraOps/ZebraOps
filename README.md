@@ -25,6 +25,9 @@
 
 ## 系统架构
 
+![Zebra架构图](arch.png)
+
 ## 开源项目
-1. [zebra-ui](https://github.com/numachen/zebra-ui) - 基于 SoybeanAdmin 的清新优雅、高颜值且功能强大的后台管理UI。
-2. [zebra-rbac](https://github.com/numachen/zebra-rbac) - 基于 RBAC 的权限管理模块。
+1. [ZebraUI](https://github.com/ZebraOps/ZebraUI) - 企业级运维管理平台。
+2. [ZebraRBAC](https://github.com/ZebraOps/ZebraRBAC) - 基于 RBAC 的权限管理模块。
+3. [ZebraCICD](https://github.com/ZebraOps/ZebraCICD) - 基于 Go 语言开发的持续集成与持续部署（CI/CD）的微服务。
